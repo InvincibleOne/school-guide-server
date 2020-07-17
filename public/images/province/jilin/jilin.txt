@@ -1,0 +1,1 @@
+{"beihuadaxue":"北华大学","changchundaxue":"长春大学","changchungongyedaxue":"长春工业大学","changchunligongdaxue":"长春理工大学","changchunshifandaxue":"长春师范大学","dongbeidianlidaxue":"东北电力大学","dongbeishifandaxue":"东北师范大学","jilincaijingdaxue":"吉林财经大学","jilindaxue":"吉林大学","jilinnongyedaxue":"吉林农业大学","jilinshifandaxue":"吉林师范大学","yanbiandaxue":"延边大学"}

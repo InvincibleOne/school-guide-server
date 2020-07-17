@@ -1,0 +1,1 @@
+{"hangzhoudianzikejidaxue":"杭州电子科技大学","hangzhoushifandaxue":"杭州师范大学","ningbodaxue":"宁波大学","wenzhoudaxue":"温州大学","wenzhouyikedaxue":"温州医科大学","zhejiangcaijingdaxue":"浙江财经大学","zhejiangdaxue":"浙江大学","zhejianggongshangdaxue":"浙江工商大学","zhejianggongyedaxue":"浙江工业大学","zhejiangligongdaxue":"浙江理工大学","zhejiangshifandaxue":"浙江师范大学","zhongguojiliangdaxue":"中国计量大学"}

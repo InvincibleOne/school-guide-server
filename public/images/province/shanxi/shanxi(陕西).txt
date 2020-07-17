@@ -1,0 +1,1 @@
+{"changandaxue":"长安大学","shanxikejidaxue":"陕西科技大学","shanxishifandaxue":"陕西师范大学","xiandianzikejidaxue":"西安电子科技大学","xianjianzhukejidaxue":"西安建筑科技大学","xianjiaotongdaxue":"西安交通大学","xianjiaotongdaxuechengshixueyuan":"西安交通大学城市学院","xianligongdaxue":"西安理工大学","xibeidaxue":"西北大学","xibeidaxuexiandaixueyuan":"西北大学现代学院","xibeigongyedaxue":"西北工业大学","xibeinonglinkejidaxue":"西北农林科技大学"}

@@ -1,0 +1,1 @@
+{"chuxiongshifanxueyuan":"楚雄师范学院","dalidaxue":"大理大学","kunmingxueyuan":"昆明学院","kunmingligongdaxue":"昆明理工大学","puerxueyuan":"普洱学院","qujingshifanxueyuan":"曲靖师范学院","xinanlinyedaxue":"西南林业大学","yunnancaijingdaxue":"云南财经大学","yunnandaxue":"云南大学","yunnanminzudaxue":"云南民族大学","yunnannongyedaxue":"云南农业大学","yunnanshifandaxue":"云南师范大学"}

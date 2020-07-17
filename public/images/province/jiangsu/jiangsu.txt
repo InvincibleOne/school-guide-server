@@ -1,0 +1,1 @@
+{"dongnandaxue":"东南大学","hehaidaxue":"河海大学","jiangnandaxue":"江南大学","nanjingdaxue":"南京大学","nanjinghangkonghangtiandaxue":"南京航空航天大学","nanjingligongdaxue":"南京理工大学","nanjingnongyedaxue":"南京农业大学","nanjingshifandaxue":"南京师范大学","suzhoudaxue":"苏州大学","zhongguokuangyedaxue":"中国矿业大学"}

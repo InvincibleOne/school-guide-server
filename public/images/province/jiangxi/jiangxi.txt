@@ -1,0 +1,1 @@
+{"donghualigongdaxue":"东华理工大学","huadongjiaotongdaxue":"华东交通大学","jiangxicaijingdaxue":"江西财经大学","jiangxiligongdaxue":"江西理工大学","jiangxinongyedaxue":"江西农业大学","jiangxishifandaxue":"江西师范大学","jiangxizhongyiyaodaxue":"江西中医药大学","jinggangshandaxue":"井冈山大学","nanchangdaxue":"南昌大学","nanchanghangkongdaxue":"南昌航空大学"}

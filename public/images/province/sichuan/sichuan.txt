@@ -1,0 +1,1 @@
+{"chengduligongdaxue":"成都理工大学","chengduzhongyiyaodaxue":"成都中医药大学","dianzikejidaxue":"电子科技大学","sichuandaxue":"四川大学","sichuannongyedaxue":"四川农业大学","sichuanshifandaxue":"四川师范大学","sichuanyinyuedaxue":"四川音乐大学","xihuadaxue":"西华大学","xinancaijingdaxue":"西南财经大学","xinanjiaotongdaxue":"西南交通大学","xinankejidaxue":"西南科技大学","xinanminzudaxue":"西南民族大学","xinanshiyoudaxue":"西南石油大学"}

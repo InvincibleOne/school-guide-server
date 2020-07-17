@@ -1,0 +1,1 @@
+{"fujiangongchengxueyuan":"福建工程学院","fujiannonglindaxue":"福建农林大学","fujianshifandaxue":"福建师范大学","fuzhoudaxue":"福州大学","huaqiaodaxue":"华侨大学","jimeidaxue":"集美大学","minjiangxueyuan":"闽江学院","minnanshifandaxue":"闽南师范大学","xiamendaxue":"厦门大学","xiamenligongxueyuan":"厦门理工学院"}

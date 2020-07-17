@@ -1,0 +1,1 @@
+{"donghuadaxue":"东华大学","fudandaxue":"复旦大学","huadongligongdaxue":"华东理工大学","huadongshifandaxue":"华东师范大学","shanghaicaijingdaxue":"上海财经大学","shanghaidaxue":"上海大学","shanghaihaishidaxue":"上海海事大学","shanghaihaiyangdaxue":"上海海洋大学","shanghaijiaotongdaxue":"上海交通大学","shanghailigongdaxue":"上海理工大学","shanghaishifandaxue":"上海师范大学","tongjidaxue":"同济大学"}

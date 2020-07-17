@@ -1,0 +1,1 @@
+{"gansunongyedaxue":"甘肃农业大学","gansuzhengfaxueyuan":"甘肃政法学院","gansuzhongyiyaodaxue":"甘肃中医药大学","lanzhoucaijingdaxue":"兰州财经大学","lanzhoudaxue":"兰州大学","lanzhoujiaotongdaxue":"兰州交通大学","lanzhouligongdaxue":"兰州理工大学","lanzhouwenlixueyuan":"兰州文理学院","tianshuishifanxueyuan":"天水师范学院","xibeiminzudaxue":"西北民族大学","xibeishifandaxue":"西北师范大学"}

@@ -1,0 +1,1 @@
+{"nankaidaxue":"南开大学","tianjincaijingdaxue":"天津财经大学","tianjindaxue":"天津大学","tianjingongyedaxue":"天津工业大学","tianjinkejidaxue":"天津科技大学","tianjinligongdaxue":"天津理工大学","tianjinshangyedaxue":"天津商业大学","tianjinshifandaxue":"天津师范大学","tianjinwaiguoyudaxue":"天津外国语大学","tianjinyikedaxue":"天津医科大学","tianjinzhongyiyaodaxue":"天津中医药大学","zhongguominhangdaxue":"中国民航大学"}

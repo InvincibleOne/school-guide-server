@@ -1,0 +1,1 @@
+{"changjiangdaxue":"长江大学","huazhongkejidaxue":"华中科技大学","huazhongnongyedaxue":"华中农业大学","huazhongshifandaxue":"华中师范大学","hubeidaxue":"湖北大学","hubeigongyedaxue":"湖北工业大学","wuhandaxue":"武汉大学","wuhankejidaxue":"武汉科技大学","wuhanligongdaxue":"武汉理工大学","zhongguodizhidaxue":"中国地质大学","zhongnancaijingzhengfadaxue":"中南财经政法大学","zhongnanminzudaxue":"中南民族大学"}

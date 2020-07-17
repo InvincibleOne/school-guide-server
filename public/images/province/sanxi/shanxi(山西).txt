@@ -1,0 +1,1 @@
+{"shanxicaijingdaxue":"山西财经大学","shanxidatongdaxue":"山西大同大学","shanxidaxue":"山西大学","shanxinongyedaxue":"山西农业大学","shanxishifandaxue":"山西师范大学","shanxiyikedaxue":"山西医科大学","taiyuankejidaxue":"太原科技大学","taiyuanligongdaxue":"太原理工大学","taiyuanshifanxueyuan":"太原师范学院","zhongbeidaxue":"中北大学"}

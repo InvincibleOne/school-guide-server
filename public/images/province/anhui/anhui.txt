@@ -1,0 +1,1 @@
+{"zhongguokexuejishudaxue":"中国科学技术大学","huaibeishifandaxue":"淮北师范大学","hefeigongyedaxue":"合肥工业大学","anhuishifandaxue":"安徽师范大学","anhuinongyedaxue":"安徽农业大学","anhuiligongdaxue":"安徽理工大学","anhuijianzhudaxue":"安徽建筑大学","anhuigongyedaxue":"安徽工业大学","anhuidaxue":"安徽大学","anhuicaijingdaxue":"安徽财经大学"}

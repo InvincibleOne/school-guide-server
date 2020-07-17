@@ -1,0 +1,1 @@
+{"henancaijingzhengfadaxue":"河南财经政法大学","henandaxue":"河南工业大学","henankejidaxue":"河南科技大学","henanligongdaxue":"河南理工大学","henannongyedaxue":"河南农业大学","henanshifandaxue":"河南师范大学","huabeishuilishuidiandaxue":"华北水利水电大学","xinyangshifanxueyuan":"信阳师范学院","zhengzhoudaxue":"郑州大学"}

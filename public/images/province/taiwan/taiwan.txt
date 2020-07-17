@@ -1,0 +1,1 @@
+{"changgengdaxue":"长庚大学","furendaxue":"辅仁大学","taiwanchenggongdaxue":"台湾成功大学","taiwandaxue":"台湾大学","taiwandonghaidaxue":"台湾东海大学","taiwanjiaotongdaxue":"台湾交通大学","taiwankejidaxue":"台湾科技大学","taiwanqinghuadaxue":"台湾清华大学","taiwanyishudaxue":"台湾艺术大学","taiwanzhengzhidaxue":"台湾政治大学","taiwanzhongyangdaxuedaxue":"台湾中央大学"}

@@ -1,0 +1,1 @@
+{"haikoujingjixueyuan":"海口经济学院","hainandaxue":"海南大学","hainangongshangzhiyexueyuan":"海南工商职业学院","hainankejizhiyedaxue":"海南科技职业大学","hainanredaihaiyagnxueyuan":"海南热带海洋学院","hainanshifandaxue":"海南师范大学","hainanyixueyuan":"海南医学院","hainanzhengfazhiyexueyuan":"海南政法职业学院","hainanzhiyejishuxueyuan":"海南职业技术学院","qiongtaishifanxueyuan":"琼台师范学院","sanyaxueyuan":"三亚学院"}

@@ -1,0 +1,1 @@
+{"changjixueyuan":"昌吉学院","kashidaxue":"喀什大学","shihezidaxue":"石河子大学","talimudaxue":"塔里木大学","xinjiangcaijingdaxue":"新疆财经大学","xinjiangdaxue":"新疆大学","xinjianggongchengxueyuan":"新疆工程学院","xinjiangjingchaxueyuan":"新疆警察学院","xinjiangnongyedaxue":"新疆农业大学","xinjiangshifandaxue":"新疆师范大学","xinjiangyikedaxue":"新疆医科大学","yilishifandaxue":"伊犁师范大学"}

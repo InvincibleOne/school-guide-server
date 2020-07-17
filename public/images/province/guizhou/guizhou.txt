@@ -1,0 +1,1 @@
+{"guizhoucaijingdaxue":"贵州财经大学","guizhoudaxue":"贵州大学","guizhoujingchaxueyuan":"贵州警察学院","guizhouligongxueyuan":"贵州理工学院","guizhouminzudaxue":"贵州民族大学","guizhoushangxueyuan":"贵州商学院","guizhoushifandaxue":"贵州师范大学","guizhoushifanxueyuan":"贵州师范学院","guizhouyikedaxue":"贵州医科大学","guizhouzhongyiyaodaxue":"贵州中医药大学","zunyishifanxueyuan":"遵义师范学院","zunyiyikedaxue":"遵义医科大学"}

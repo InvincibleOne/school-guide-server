@@ -1,0 +1,1 @@
+{"daliandaxue":"大连大学","dalianhaishidaxue":"大连海事大学","dalianligongdaxue":"大连理工大学","dongbeicaijingdaxue":"东北财经大学","dongbeidaxue":"东北大学","liaoningdaxue":"辽宁大学","liaoninggongchengjishudaxue":"辽宁工程技术大学","liaoningshifandaxue":"辽宁师范大学","shenyanggongyedaxue":"沈阳工业大学","shenyangnongyedaxue":"沈阳农业大学","zhongguoyikedaxue":"中国医科大学"}

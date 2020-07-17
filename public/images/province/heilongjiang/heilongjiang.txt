@@ -1,0 +1,1 @@
+{"dongbeilinyedaxue":"东北林业大学","dongbeishiyoudaxue":"东北石油大学","haerbingongchengdaxue":"哈尔滨工程大学","haerbingongyedaxue":"哈尔滨工业大学","haerbinligongdaxue":"哈尔滨理工大学","haerbinshangyedaxue":"哈尔滨商业大学","haerbinshifandaxue":"哈尔滨师范大学","heilongjiangkejidaxue":"黑龙江科技大学","heilongjiangzhongyiyaodaxue":"黑龙江中医药大学","qiqihaerdaxue":"齐齐哈尔大学"}

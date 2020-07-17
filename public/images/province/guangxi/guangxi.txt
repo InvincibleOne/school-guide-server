@@ -1,0 +1,1 @@
+{"guangximinzudaxue":"广西民族大学","guangxicaijingxueyuan":"广西财经学院","guangxidaxue":"广西大学","guangxikejidaxue":"广西科技大学","guangxishifandaxue":"广西师范大学","guangxiyikedaxue":"广西医科大学","guilindianzikejidaxue":"桂林电子科技大学","guilinligongdaxue":"桂林理工大学","guilinyixueyuan":"guilinyixueyuan","hezhouxueyuan":"贺州学院","nanningshifandaxue":"南宁师范大学","youjiangminzuyixueyuan":"右江民族医学院"}

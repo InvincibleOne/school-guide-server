@@ -1,0 +1,1 @@
+{"chifengxueyuan":"赤峰学院","hetaoxueyuan":"河套学院","hulunbeierxueyuan":"呼伦贝尔学院","jiningshifanxueyuan":"集宁师范学院","neimenggucaijingdaxue":"内蒙古财经大学","neimenggudaxue":"内蒙古大学","neimenggugongyedaxue":"内蒙古工业大学","neimenggukejidaxue":"内蒙古科技大学","neimengguminzudaxue":"内蒙古民族大学","neimenggunongyedaxue":"内蒙古农业大学","neimenggushifandaxue":"内蒙古师范大学","neimengguyikedaxue":"内蒙古医科大学"}

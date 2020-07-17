@@ -1,0 +1,2 @@
+{"beijingdaxue":"北京大学","beijinghangkonghangtiandaxue":"北京航空航天大学","beijinghuagongdaxue":"北京化工大学","beijingjiaotongdaxue":"北京交通大学","beijingkejidaxue":"北京科技大学","beijingligongdaxue":"北京理工大学","beijingshifandaxue":"北京师范大学","huabeidianlidaxue":"华北电力大学","qinghuadaxue":"清华
+大学","shouduyikedaxue":"首都医科大学","zhongguonongyedaxue":"中国农业大学","zhongguorenmindaxue":"中国人民大学","shoudushifandaxue":"首都师范大学"}

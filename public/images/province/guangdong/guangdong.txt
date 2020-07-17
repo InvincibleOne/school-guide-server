@@ -1,0 +1,1 @@
+{"dongguanligongdaxue":"东莞理工大学","guangdonggongyedaxue":"广东工业大学","guangdonghaiyangdaxue":"广东海洋大学","guangzhoudaxue":"广州大学","huananligongdaxue":"华南理工大学","huanannongyedaxue":"华南农业大学","huananshifandaxue":"华南师范大学","jinandaxue":"暨南大学","nanfangkejidaxue":"南方科技大学","shantoudaxue":"汕头大学","shenzhendaxue":"深圳大学","zhongshandaxue":"中山大学"}

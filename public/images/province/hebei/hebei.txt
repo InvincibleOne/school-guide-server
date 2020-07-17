@@ -1,0 +1,1 @@
+{"hebeidaxue":"河北大学","hebeidizhidaxue":"河北地质大学","hebeigongchengdaxue":"河北工程大学","hebeigongyedaxue":"河北工业大学","hebeijingmaodaxue":"河北经贸大学","hebeikejidaxue":"河北科技大学","hebeinongyedaxue":"河北农业大学","hebeishifandaxue":"河北师范大学","huabeiligongdaxue":"华北理工大学","shijiazhuangtiedaodaxue":"石家庄铁道大学","yanshandaxue":"燕山大学"}

@@ -1,0 +1,1 @@
+{"jinandaxue":"济南大学","qingdaodaxue":"青岛大学","qingdaokejidaxue":"青岛科技大学","qingdaoligongdaxue":"青岛理工大学","qufushifandaxue":"曲阜师范大学","shandongcaijingdaxue":"山东财经大学","shandongdaxue":"山东大学","shandongkejidaxue":"山东科技大学","shandongnongyedaxue":"山东农业大学","shandongshifandaxue":"山东师范大学","yantaidaxue":"烟台大学","zhongguohaiyangdaxue":"中国海洋大学","zhongguoshiyoudaxue":"中国石油大学"}

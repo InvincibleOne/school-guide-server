@@ -1,0 +1,1 @@
+{"beifangminzudaxue":"北方民族大学","ningxiadaxue":"宁夏大学","ningxiagongyezhiyexueyuan":"宁夏工业职业学院","ningxiajingguanzhiyexueyuan":"宁夏警官职业学院","ningxialigongxueyuan":"宁夏理工学院","ningxiaminzuzhiyejishuxueyuan":"宁夏民族职业技术学院","ningxiashifanxueyuan":"宁夏师范学院","ningxiayikedaxue":"宁夏医科大学","yinchuannengyuanxueyuan":"银川能源学院","zhongguokuangyedaxueyinchuanxueyuan":"中国矿业大学银川学院"}
