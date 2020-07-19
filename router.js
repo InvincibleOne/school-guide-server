@@ -16,9 +16,13 @@ const getSchools = require( './controller/getSchools' )
 
 const getRoute = require( './controller/getRoute' )
 
+const upImg = require( './controller/upImg' )
+
 const router = express.Router()
 
 const cdut = require( './cdut.json' )
+
+const path = require( 'path' )
 
 
 router.get( '/', ( req, res ) => {
@@ -34,7 +38,8 @@ router.get( '/getCaptchas', ( req, res ) => {
 } )
 
 router.post( '/register', ( req, res ) => {
-    register( req, res )
+    var uri = path.join(__dirname + "/public");
+    register( req, res, uri )
 } )
 router.post( '/login', ( req, res ) => {
     login( req, res )
@@ -57,12 +62,10 @@ router.post( '/getSchools', ( req, res ) => {
 router.post( '/getRoute', ( req, res ) => {
     getRoute( req, res )
 } )
+
 router.post( '/upImg', ( req, res ) => {
-    console.log( req.body )
-    res.json( {
-        res_code:0,
-        data:{},
-    } )
+    var uri = path.join(__dirname + "/public/images/person");
+    upImg( req, res, uri )
 } )
 
 

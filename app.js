@@ -1,3 +1,4 @@
+
 const express = require( 'express' )
 
 const router = require( './router' )
@@ -22,7 +23,7 @@ app.use( '/public/', express.static( path.join( __dirname, './public' ) ) )
 
 app.use(function(req, res, next){
     //设置跨域访问
-    res.header('Access-Control-Allow-Origin', '112.74.164.4:8090');
+    res.header('Access-Control-Allow-Origin', 'http://127.0.0.1:3001');
     // res.header('Access-Control-Allow-Origin', 'http://192.168.0.110:3001');
     res.header('Access-Control-Allow-Headers', 'Content-Type, Content-Length, Authorization, Accept, X-Requested-With , yourHeaderFeild');
     res.header('Access-Control-Allow-Methods', 'PUT, POST, GET, DELETE, OPTIONS');
@@ -38,4 +39,4 @@ app.use( router )
 
 app.listen( 5000, () => {
     // console.log( 'running!' )   
-} )     
+} )    
